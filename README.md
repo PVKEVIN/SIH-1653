@@ -12,6 +12,27 @@ Ministry of Defence
 
 ## Idea
 
+### 📌 **1. Emotion & Sentiment Analysis**  
+- Uses **facial expressions and voice tone** to assess confidence, stress, and engagement.  
+- Detects **nervousness, hesitation, enthusiasm, and assertiveness** to evaluate communication skills.  
+- Helps interviewers make better decisions by adding **behavioral insights** to technical evaluation.  
+
+### 📌 **2. Adaptive Difficulty Scaling**  
+- AI **adjusts question difficulty in real time** based on the candidate’s performance.  
+- Strong candidates get **harder questions** to test deeper knowledge.  
+- Struggling candidates get **moderate-level questions** to fairly assess their understanding.  
+
+### 📌 **3. AI-Powered Question Generation**  
+- Uses **Machine Learning (ML) & Natural Language Processing (NLP)** to create **custom interview questions**.  
+- Starts with **easy, ice-breaking questions**, then moves to **technical and managerial** problem-solving.  
+- Ensures a **structured and unbiased** interview process with minimal human intervention.  
+
+### 📌 **4. Candidate Scoring & Report Generation**  
+- AI scores candidates based on:  
+  - **Technical knowledge & problem-solving skills**  
+  - **Soft skills & communication (using sentiment analysis)**  
+  - **Ability to handle different difficulty levels**  
+- Generates **detailed reports** with scores and hiring recommendations for recruiters.  
 
 ## Proposed Solution / Architecture Diagram
 
