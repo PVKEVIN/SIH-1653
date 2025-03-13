@@ -61,3 +61,19 @@ Ministry of Defence
 - **Speech-to-Text API**: Converting verbal responses into text for evaluation.
 - **Cloud Infrastructure**: Secure storage and role-based authentication.
 - **Data Visualization**: Dashboards for analytics and candidate performance tracking.
+
+- ## Budget
+| Item                          | Estimated Cost (INR) |
+|--------------------------------|----------------------|
+| AI/ML Development              | 2,00,000            |
+| Backend & API Development      | 1,50,000            |
+| Frontend Development           | 1,00,000            |
+| Cloud Hosting & Security       | 1,50,000            |
+| Data Storage & Processing      | 1,00,000            |
+| Testing & QA                   | 75,000              |
+| UI/UX Design                   | 75,000              |
+| Licensing & Software Tools     | 50,000              |
+| Miscellaneous Expenses         | 50,000              |
+| **Total Estimated Budget**      | **9,50,000**        |
+
+---
