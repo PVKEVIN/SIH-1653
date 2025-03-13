@@ -39,9 +39,25 @@ Ministry of Defence
 
 ## Use Cases
 
+1. **Recruitment for DRDO**: Streamlining the selection of new scientific manpower.
+2. **Internal Promotions**: Automating the evaluation process for internal job upgrades.
+3. **Mock Interviews & Training**: Helping candidates prepare for real-world interviews.
+4. **HR & Corporate Use**: Can be adapted for hiring in other government and private organizations.
+
 
 ## Technology Stack
+
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB / PostgreSQL
+- **AI/ML Components**: Python (TensorFlow, OpenCV, NLP libraries)
+- **Cloud & Security**: AWS/Azure, AES-256 encryption, multi-factor authentication (MFA)
 
 
 ## Dependencies
 
+- **Natural Language Processing (NLP)**: For AI-powered question generation and response analysis.
+- **Computer Vision**: Facial expression and sentiment detection.
+- **Speech-to-Text API**: Converting verbal responses into text for evaluation.
+- **Cloud Infrastructure**: Secure storage and role-based authentication.
+- **Data Visualization**: Dashboards for analytics and candidate performance tracking.
