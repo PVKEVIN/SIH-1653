@@ -36,6 +36,11 @@ Ministry of Defence
 
 ## Proposed Solution / Architecture Diagram
 
+![WhatsApp Image 2025-03-14 at 08 37 35_2a33febb](https://github.com/user-attachments/assets/8c8b32a9-4565-4947-b8a8-2b76c6099d97)
+
+![image](https://github.com/user-attachments/assets/b1d6f489-664f-4c46-ac7e-6f1bc8fb5361)
+
+
 
 ## Use Cases
 
